@@ -1,2 +1,2 @@
 # chatbot
-sample chatbot
+ chatbot
